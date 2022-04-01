@@ -1,5 +1,5 @@
 # Alisa Fedorova
-***
+
 **Junior Frontend Developer**
 
 **Contact information:**
@@ -9,7 +9,9 @@
 **E-mail:** alisa.fed.91@gmail.com
 
 **Telegram:** @alisa_fed
+
 ***
+
 ## **Briefly about myself:**
 I started my career as a trainee in Python programming courses conducted by Stepik. After finishing the courses with a grade of 100% I decided to continue my journey in programming by studying Git, GitHub and Jenkins. 
 
@@ -20,6 +22,7 @@ It was so amazing how friendly JavaScript community is, how many great resources
 I am very keen on web development and doing my best to become a seasoned JavaScript developer.
 
 ***
+
 ## **Skills and Proficiency:**
 * Programming languages:
   * JavaScript Basics
@@ -27,7 +30,9 @@ I am very keen on web development and doing my best to become a seasoned JavaScr
 * Pycharm
 * Git, GitHub
 * Jenkins
+
 ***
+
 #### **Code example:**
 Write a modify_list(l) function that takes a list of integers as input, removes all odd values from it, and divides the even ones completely by two. The function should not return anything, it only needs to change the passed list. The function should not perform input/output of information:
 ``` Python
@@ -43,6 +48,7 @@ def modify_list (l):
 ```
 
 ***
+
 ### **Courses:**
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools Cource “JavaScript/Front-end. Stage 1” (in progress)
@@ -52,6 +58,7 @@ def modify_list (l):
 
 ***
 ### **Languages:**
-* English – Intermediate (according to the online test at [www.efset.org](https://www.efset.org/)
+* Russian - Native
+* English - Intermediate (according to the online test at [www.efset.org](https://www.efset.org/))
+
 ![](assets/images/english.jpg) 
-* Russian -Native
