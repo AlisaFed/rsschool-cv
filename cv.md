@@ -56,7 +56,7 @@ function makeLooper(str) {
 * RS Schools Cource “JavaScript/Front-end. Stage 2” 
 * Python programming course on [Stepik](https://stepik.org/) 
 
-![](assets/images/stepik.jpg) 
+![](./assets/stepik.jpg) 
 
 ---
 
@@ -64,4 +64,4 @@ function makeLooper(str) {
 * Russian - Native
 * English - B2 (according to the online test at [www.efset.org](https://www.efset.org/))
 
-![](assets/images/english.jpg) 
+![](./assets/eng.jpg) 
