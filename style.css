@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+ul[class],
+ol[class] {
+    padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+    margin: 0;
+}
+
+body {
+    min-height: 100vh;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+}
+
+a:not([class]) {
+    text-decoration-skip-ink: auto;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+article>*+* {
+    margin-top: 1em;
+}
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
+/*****************************************************************************/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #2b1d0e;
+    background-color: #fdfeff;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    margin: 0 15px 0 320px;
+    height: 135px;
+    gap: 10px;
+}
+
+.main-info {
+    min-width: 330px;
+}
+
+.my-job {
+    color: #88837d;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 290px;
+    height: 100vh;
+    align-items: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    position: fixed;
+    top: 0;
+}
+
+.img-box {
+    width: 250px;
+    height: 300px;
+    border-radius: 0 0 40px 40px;
+    background: linear-gradient(#fdfeff, #70b7c9);
+    display: flex;
+    justify-content: center;
+}
+
+.my-avatar {
+    max-width: 200px;
+    max-height: 250px;
+    border-radius: 0 0 40px 40px;
+}
+
+.about-me {
+    margin: 5px;
+}
+
+.rigth-side {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    margin: 0 0 0 320px;
+    gap: 30px;
+    max-width: 610px;
+}
+
+.contact-part {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 250px;
+}
+
+.all-info {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.stepik {
+    width: 455px;
+    margin: 5px;
+}
+
+.eng {
+    margin: 5px 5px 5px 30px;
+    height: 550px;
+}
